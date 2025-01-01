@@ -1,0 +1,1 @@
+call cmd /k elixir slack_bot.exs
