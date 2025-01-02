@@ -33,6 +33,6 @@ defmodule SlackBot do
   end
 end
 
-# Usage: Run this script with `elixir slack_notifier.exs`
+# Usage: Run this script with `elixir slack_bot.exs`
 # Example usage:
 SlackBot.send_message("your-channel-id", "Hello, Slack!")
